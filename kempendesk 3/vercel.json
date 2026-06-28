@@ -1,0 +1,6 @@
+{
+  "rewrites": [
+    { "source": "/api/factcheck", "destination": "/api/factcheck.js" },
+    { "source": "/api/five-questions", "destination": "/api/five-questions.js" }
+  ]
+}
